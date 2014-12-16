@@ -63,7 +63,7 @@ cacheSolve <- function(x, ...)
 	   	 		message( paste( str(data), "It's not a square matrix", sep = "") )
 	   	 	}
 	    else
-	   	 	# it's not a matrix	    		
+	   	 	# it's not a matrix
 	   	 	message( paste( str(data), "It's not a matrix", sep = "") )
 	    }
 	else
